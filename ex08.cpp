@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Função para calcular o peso ideal
 float PesoIdeal(float altura, char sexo[]) {
     float calculoPeso;
 
