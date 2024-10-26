@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-void calcularMedia(float nota1, float nota2, float nota3, char letra) {
+float calcularMedia(float nota1, float nota2, float nota3, char letra) {
     float media;
 
     if (letra == 'A') {
